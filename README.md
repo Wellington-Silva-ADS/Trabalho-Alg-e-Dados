@@ -52,10 +52,3 @@ O sistema foi dividido em módulos:
 
 ---
 
-## Como Executar o Projeto
-
-###  Clonar o repositório
-
-```bash
-git clone https://redesigned-yodel-69p95vxjr779hrwg.github.dev/
-cd megastore
