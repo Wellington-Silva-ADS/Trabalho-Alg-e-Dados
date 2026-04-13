@@ -50,3 +50,12 @@ O sistema foi dividido em módulos:
 | Vec | Armazenamento de listas |
 | Grafo | Recomendação de produtos |
 
+---
+
+## Como Executar o Projeto
+
+###  Clonar o repositório
+
+```bash
+git clone https://redesigned-yodel-69p95vxjr779hrwg.github.dev/
+cd megastore
