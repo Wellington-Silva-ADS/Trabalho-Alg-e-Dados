@@ -51,3 +51,11 @@ O sistema foi dividido em módulos:
 | Grafo | Recomendação de produtos |
 
 ---
+
+## 🚀 Como Executar o Projeto
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/Wellington-Silva-ADS/megastore.git
+cd megastore
